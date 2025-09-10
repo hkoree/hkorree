@@ -1,59 +1,111 @@
-<!-- Banner / Game Intro -->
-<h1 align="center">🎮 Welcome to Hoksha's Game Profile 🎮</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=00FF00&center=true&vCenter=true&width=600&lines=Loading+Profile...;Entering+Hacker+Mode...;Welcome+Player+Hoksha!"/>
-</p>
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>🎮 مَ ـصنعَ ـ آلجيمز 🎮</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: "Cairo", sans-serif;
+      color: #fff;
+      background: linear-gradient(45deg, #0f0f0f, #1a1a1a, #000);
+      background-size: 400% 400%;
+      animation: gradientBG 10s ease infinite;
+      overflow-x: hidden;
+    }
 
----
+    @keyframes gradientBG {
+      0% {background-position: 0% 50%;}
+      50% {background-position: 100% 50%;}
+      100% {background-position: 0% 50%;}
+    }
 
-## 🕹 Player Stats
-- 👤 **Player:** Hoksha  
-- ❤️ **Health:** ██████░░░░ (60%)  
-- ⚡ **Energy:** ████████░░ (80%)  
-- ⭐ **Level:** 17  
-- 🏆 **XP:** 1240 / 2000  
+    h1 {
+      text-align: center;
+      font-size: 3em;
+      margin-top: 30px;
+      color: #0ff;
+      text-shadow: 0 0 15px #0ff, 0 0 25px #0ff;
+    }
 
----
+    .container {
+      max-width: 1000px;
+      margin: 50px auto;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      padding: 0 20px;
+    }
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hkorre) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hkrroe) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/hkorre) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hkorre)  
+    .card {
+      background: rgba(20, 20, 20, 0.9);
+      border: 2px solid #0ff;
+      border-radius: 15px;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 0 20px rgba(0,255,255,0.6);
+      transition: 0.3s;
+    }
 
----
+    .card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 30px rgba(0,255,255,1);
+    }
 
-## ⚔️ Skills (Tech Stack)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) 
-![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) 
-![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=flat&logo=scaleway&logoColor=white) 
-... (باقي الـ Tech Stack زي ما هو) ...
+    .card h2 {
+      font-size: 1.8em;
+      margin-bottom: 15px;
+      color: #ff0077;
+      text-shadow: 0 0 10px #ff0077;
+    }
 
----
+    .card p {
+      font-size: 1.2em;
+      line-height: 1.6;
+    }
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hkoree&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hkoree&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hkoree&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+    footer {
+      margin-top: 50px;
+      text-align: center;
+      padding: 20px;
+      background: rgba(0, 0, 0, 0.7);
+      border-top: 2px solid #0ff;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎮 مَ ـصنعَ ـ آلجيمز 🎮</h1>
 
----
+  <div class="container">
+    <div class="card">
+      <h2>مَ ـتضࢪبش</h2>
+      <p>مهماتك تخلص من غير مَ ـتضࢪبش 😎🔥</p>
+    </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hkoree&theme=vision-friendly-dark&no-frame=false&no-bg=true&margin-w=4)
+    <div class="card">
+      <h2>طلقهہ ـ</h2>
+      <p>إجمع آكبر عدد طلقهہ ـ للفوز 🥶🔫</p>
+    </div>
 
----
+    <div class="card">
+      <h2>عَ ـ</h2>
+      <p>قوهك تبدأ بــ "عَ ـ"ـزيمتك 💪👑</p>
+    </div>
 
-## 💣 Special Words
-**مَ ـتضࢪبش ، طلقهہ ـ ، عَ ـ ، مَ ـصنعَ ـ ، آسلح ـهہ ـ😱**
+    <div class="card">
+      <h2>مَ ـصنعَ ـ</h2>
+      <p>إخترع مَ ـصنعَ ـ آسلحهہ ـك ⚔️🚀</p>
+    </div>
 
----
+    <div class="card">
+      <h2>آسلح ـهہ ـ😱</h2>
+      <p>إجمع آقوى آسلح ـهہ ـ وخلي معركتك أسطورية 💀🔥</p>
+    </div>
+  </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hkoree&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=hkoree&icon=4&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <footer>
+    ⚡ تصميم جيمز / هاكر ستايل ⚡
+  </footer>
+</body>
+</html>
