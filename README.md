@@ -1,111 +1,24 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-  <meta charset="UTF-8">
-  <title>🎮 مَ ـصنعَ ـ آلجيمز 🎮</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: "Cairo", sans-serif;
-      color: #fff;
-      background: linear-gradient(45deg, #0f0f0f, #1a1a1a, #000);
-      background-size: 400% 400%;
-      animation: gradientBG 10s ease infinite;
-      overflow-x: hidden;
-    }
 
-    @keyframes gradientBG {
-      0% {background-position: 0% 50%;}
-      50% {background-position: 100% 50%;}
-      100% {background-position: 0% 50%;}
-    }
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hkorre ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hkrroe) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/hkorre ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hkorre ) 
 
-    h1 {
-      text-align: center;
-      font-size: 3em;
-      margin-top: 30px;
-      color: #0ff;
-      text-shadow: 0 0 15px #0ff, 0 0 25px #0ff;
-    }
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=flat&logo=scaleway&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=flat&logo=adonisjs&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat&logo=apollo-graphql) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=flat&logo=framework7&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=flat&logo=svelte&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=flat&logo=tauri&logoColor=%23FFFFFF) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat&logo=Apache%20Ant&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=InfluxDB&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=flat&logo=circleci&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=flat&logo=mercurial&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=flat&logo=Jellyfin&logoColor=00A4DC) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=flat&logo=battle.net&logoColor=white) ![Bevy](https://img.shields.io/badge/bevy-%23232326.svg?style=flat&logo=bevy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hkoree&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hkoree&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hkoree&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-    .container {
-      max-width: 1000px;
-      margin: 50px auto;
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 20px;
-      padding: 0 20px;
-    }
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hkoree&theme=vision-friendly-dark&no-frame=false&no-bg=true&margin-w=4)
 
-    .card {
-      background: rgba(20, 20, 20, 0.9);
-      border: 2px solid #0ff;
-      border-radius: 15px;
-      padding: 20px;
-      text-align: center;
-      box-shadow: 0 0 20px rgba(0,255,255,0.6);
-      transition: 0.3s;
-    }
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-    .card:hover {
-      transform: scale(1.05);
-      box-shadow: 0 0 30px rgba(0,255,255,1);
-    }
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hkoree&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-    .card h2 {
-      font-size: 1.8em;
-      margin-bottom: 15px;
-      color: #ff0077;
-      text-shadow: 0 0 10px #ff0077;
-    }
+---
+[![](https://visitcount.itsvg.in/api?id=hkoree&icon=4&color=4)](https://visitcount.itsvg.in)
 
-    .card p {
-      font-size: 1.2em;
-      line-height: 1.6;
-    }
-
-    footer {
-      margin-top: 50px;
-      text-align: center;
-      padding: 20px;
-      background: rgba(0, 0, 0, 0.7);
-      border-top: 2px solid #0ff;
-    }
-  </style>
-</head>
-<body>
-  <h1>🎮 مَ ـصنعَ ـ آلجيمز 🎮</h1>
-
-  <div class="container">
-    <div class="card">
-      <h2>مَ ـتضࢪبش</h2>
-      <p>مهماتك تخلص من غير مَ ـتضࢪبش 😎🔥</p>
-    </div>
-
-    <div class="card">
-      <h2>طلقهہ ـ</h2>
-      <p>إجمع آكبر عدد طلقهہ ـ للفوز 🥶🔫</p>
-    </div>
-
-    <div class="card">
-      <h2>عَ ـ</h2>
-      <p>قوهك تبدأ بــ "عَ ـ"ـزيمتك 💪👑</p>
-    </div>
-
-    <div class="card">
-      <h2>مَ ـصنعَ ـ</h2>
-      <p>إخترع مَ ـصنعَ ـ آسلحهہ ـك ⚔️🚀</p>
-    </div>
-
-    <div class="card">
-      <h2>آسلح ـهہ ـ😱</h2>
-      <p>إجمع آقوى آسلح ـهہ ـ وخلي معركتك أسطورية 💀🔥</p>
-    </div>
-  </div>
-
-  <footer>
-    ⚡ تصميم جيمز / هاكر ستايل ⚡
-  </footer>
-</body>
-</html>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
